@@ -2,5 +2,9 @@ Name: Heviinash Parugavelu
 Matric Number: 251594858
 Course: Data Science
 Hobbies: Watching Series
+<<<<<<< HEAD
 
 Course: IMC22403 (Main Version)
+=======
+Course: Software Engineering (Feature Version)
+>>>>>>> 28bbc59 (Updated course in feature branch)
